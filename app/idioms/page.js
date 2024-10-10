@@ -1,3 +1,8 @@
+export const metadata = {
+  title: 'Idiom',
+  description: 'This is the page for the idiom content',
+};
+
 export default function IdiomPage() {
   return (
     <div>
